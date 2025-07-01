@@ -1,7 +1,7 @@
 # Animated Website with GSAP
 
 ## Description
-This project is an animated website created using **GSAP (GreenSock Animation Platform)**. It demonstrates the use of GSAP to create smooth, engaging, and interactive animations that enhance user experience. The website showcases various animation techniques, such as element transitions, hover effects, scroll-based animations, and timeline control.
+This project is an animated portfolio website created using **GSAP (GreenSock Animation Platform)**. It demonstrates the use of GSAP to create smooth, engaging, and interactive animations that enhance user experience. 
 
 ## Features
 - Smooth and visually appealing animations.
@@ -14,10 +14,7 @@ This project is an animated website created using **GSAP (GreenSock Animation Pl
 - HTML5, CSS3, JavaScript
 - **GSAP (GreenSock Animation Platform)**
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/animated-website.git
 
 
-Live link:-  https://animatedweb3.netlify.app/
+
+
